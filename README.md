@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/Dax083/anon-bot">
+  <a href="https://github.com/BionXP/randomchat">
    
   </a>
-  <a href="https://github.com/Dax083/anon-bot">
+  <a href="https://github.com/BionXP/randomchat">
   </a>
 </p>  
 
@@ -22,7 +22,7 @@ Ini adalah repo untuk random chat bot atau biasa di kenal sebagai Anonymous Chat
 ### VIA VPS
 
 ```console
-$ git clone https://github.com/Dax083/anon-bot
+$ git clone https://github.com/BionXP/randomchat
 $ cd anon-bot
 $ pip3 install -U -r requirements.txt
 $ nano config.py
@@ -46,6 +46,6 @@ $ python3 ChatBot.py
 - [✓] PESAN TERUSAN
 ---
 ## CREDIT
-* [](https://github.com/Dax083/anon-bot)
+* [](https://github.com/Bion/randomchat)
 Thanks for all development 🙏
 
